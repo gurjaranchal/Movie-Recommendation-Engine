@@ -2,7 +2,7 @@
 ## Movie Recommendation System
 
 ### Submission for Microsoft Engage Mentorship Program 2022
-### Algorithms 
+### Challenge : Algorithms 
 
 Demonstrate through your app the different kinds of algorithms that a 
 web-streaming app (like Netflix) or an audio-streaming app (like 
@@ -28,10 +28,10 @@ Use DataSet (downloaded from kaggle)
 - Simple responsive UI
 - Movie Story
 - Movie Posters
-- Directors & Cast information
+- Movie Directors
+- Movie Cast Information
 - IMDB Ratings⭐
 - Implemention of KNN Algorithm from Scratch
-- Compare the Built Model using Scikit Learn
 
 ### Instructions
 ```
@@ -50,7 +50,7 @@ MovieRecommendationModel.ipynb is the notebook of data processing.
 ### Deployment
 
 Movie Recommendation Engine deployed on Heroku
-[Website Link](https://movie-recommendation-engine-77.herokuapp.com/)
+  [Website Link](https://movie-recommendation-engine-77.herokuapp.com/)
 
 
 ### User Interface
