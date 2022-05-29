@@ -8,11 +8,16 @@ Demonstrate through your app the different kinds of algorithms that a
 web-streaming app (like Netflix) or an audio-streaming app (like 
 Spotify) may use for their Recommendation Engine.
 
+ Here in Movie Recommendation Engine I used KNN (K-Nearest-Neighbor) Algorithm 
+ 
+
 ```
 ### Technology Used 
 ```
 Python(3.10.4)
 Streamlit version(1.9.0)
+Use of IMDB movie links from dataset (to fetch the information of movies)
+Use DataSet (downloaded from kaggle)
 ```
 ### Features 
 
