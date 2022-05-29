@@ -71,4 +71,5 @@ Movie Recommendation Engine deployed on Heroku
  - [Website Link](https://movie-recommendation-engine-77.herokuapp.com/)
  - [Movie Dataset](https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset)
  - [Video Demo](https://youtu.be/Xp1cettcMS0)
+ - [Video-PPT](https://docs.google.com/presentation/d/1_ble2lwoyn2HQcO_C4DPFqewSOGg5cs2/edit?usp=sharing&ouid=106289267834755181016&rtpof=true&sd=true)
 
