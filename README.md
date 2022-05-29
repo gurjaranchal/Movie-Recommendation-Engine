@@ -15,13 +15,13 @@ Python(3.10.4)
 Streamlit version(1.9.0)
 ```
 ### Features 
-``` 
-Simple responsive UI
-Movie Story
-Movie Posters
-Directors & Cast information
-IMDB Ratings⭐
-```
+
+- Simple responsive UI
+- Movie Story
+- Movie Posters
+- Directors & Cast information
+- IMDB Ratings⭐
+
 ### Instructions
 ```
 1. Clone my repository
