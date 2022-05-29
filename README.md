@@ -3,7 +3,7 @@
 
 ### Submission for Microsoft Engage Mentorship Program 2022
 ### Algorithms 
-```
+
 Demonstrate through your app the different kinds of algorithms that a 
 web-streaming app (like Netflix) or an audio-streaming app (like 
 Spotify) may use for their Recommendation Engine.
@@ -15,7 +15,7 @@ KNN calculates the distance from all points in the proximity of the unknown
 data and filters out the ones with the shortest distances to it. As a result, 
 it’s often referred to as a distance-based algorithm.
  
- ```
+
 ### Technology Used 
 ```
 Python(3.10.4)
@@ -50,7 +50,7 @@ MovieRecommendationModel.ipynb is the notebook of data processing.
 ### Deployment
 
 Movie Recommendation Engine deployed on Heroku
-- [Website Link](https://movie-recommendation-engine-77.herokuapp.com/)
+[Website Link](https://movie-recommendation-engine-77.herokuapp.com/)
 
 
 ### User Interface
