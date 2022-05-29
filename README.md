@@ -30,8 +30,8 @@ Use DataSet (downloaded from kaggle)
 - Movie Posters
 - Directors & Cast information
 - IMDB Ratings⭐
-- Implemantion of KNN Algorithm from scratch
-- Compare the Built model using Scikit Learn
+- Implemention of KNN Algorithm from Scratch
+- Compare the Built Model using Scikit Learn
 
 ### Instructions
 ```
@@ -50,6 +50,7 @@ MovieRecommendationModel.ipynb is the notebook of data processing.
 ### Deployment
 ```
 Movie Recommendation Engine deployed on Heroku
+- [Website Link](https://movie-recommendation-engine-77.herokuapp.com/)
 ```
 ### User Interface
 
