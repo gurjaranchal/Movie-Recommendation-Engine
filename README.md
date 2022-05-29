@@ -8,7 +8,8 @@ Demonstrate through your app the different kinds of algorithms that a
 web-streaming app (like Netflix) or an audio-streaming app (like 
 Spotify) may use for their Recommendation Engine.
 
-KNN Algorithm used for making Recommendation Engine
+KNN Algorithm used for making Movie Recommendation Engine
+
 K-Nearest Neighbor is a algorithm that stores all the available cases and 
 classifies the new data based on similarity measure.
 KNN calculates the distance from all points in the proximity of the unknown 
