@@ -32,7 +32,7 @@ Use DataSet (downloaded from kaggle)
 - Movie Directors
 - Movie Cast Information
 - IMDB Ratings⭐
-- Implemention of KNN Algorithm from Scratch
+
 
 ### Instructions
 ```
